@@ -6,3 +6,5 @@ Multi language understanding
 Multi turn dialog handling
 
 Gesture understanding 
+
+Gibberish removal
