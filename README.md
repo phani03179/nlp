@@ -8,3 +8,5 @@ Multi turn dialog handling
 Gesture understanding 
 
 Gibberish removal
+
+Multi intent understanding 
