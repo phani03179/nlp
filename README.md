@@ -18,3 +18,5 @@ Recurrent trial slot fill
 Engaging dialog intents 
 
 Distinguishing speakers
+
+Story summary anaphora
