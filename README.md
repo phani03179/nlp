@@ -32,3 +32,5 @@ Gesture analysis
 Bert variants
 
 Understanding colloquial terminology 
+
+Image recaptioning
