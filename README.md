@@ -36,3 +36,5 @@ Understanding colloquial terminology
 Image recaptioning
 
 Understanding interjections
+
+Conjunction commands
